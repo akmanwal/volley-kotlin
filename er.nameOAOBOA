@@ -1,0 +1,8 @@
+user.email=ashish@cykul.com
+user.name=CykulApps
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=git@github.com:akmanwal/Retrofit-kotlin.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
