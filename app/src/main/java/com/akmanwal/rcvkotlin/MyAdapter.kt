@@ -32,6 +32,7 @@ class MyAdapter(val namesList: ArrayList<Restaurant>, val context: Context) :
 
         holder.view.tvName.text = name
         Glide.with(context).load(url).into(holder.view.ivImage)
+
     }
 
     class MyViewHolder(val view: View) : RecyclerView.ViewHolder(view)
